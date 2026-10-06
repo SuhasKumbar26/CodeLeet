@@ -16,8 +16,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
