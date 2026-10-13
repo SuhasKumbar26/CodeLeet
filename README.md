@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Enumeration
