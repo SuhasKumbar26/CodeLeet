@@ -45,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [2235-add-two-integers](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2235-add-two-integers) |
 <!---LeetCode Topics End-->
