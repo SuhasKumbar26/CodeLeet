@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0507-perfect-number) |
 | [2235-add-two-integers](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
