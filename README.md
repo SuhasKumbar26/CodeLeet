@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -69,14 +70,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0796-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
