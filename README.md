@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -71,5 +72,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
