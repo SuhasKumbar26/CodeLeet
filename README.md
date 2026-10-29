@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0485-max-consecutive-ones) |
@@ -75,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
@@ -99,9 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
 ## Database
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
