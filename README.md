@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0485-max-consecutive-ones) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0344-reverse-string) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
