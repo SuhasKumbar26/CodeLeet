@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0189-rotate-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
