@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0485-max-consecutive-ones) |
+| [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
+| [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 ## String Matching
 |  |
 | ------- |
@@ -132,4 +134,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0054-spiral-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
+## Design
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
