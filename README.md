@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0485-max-consecutive-ones) |
 | [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
@@ -106,10 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -151,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0706-design-hashmap) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
