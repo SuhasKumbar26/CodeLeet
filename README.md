@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0189-rotate-array) |
@@ -196,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
