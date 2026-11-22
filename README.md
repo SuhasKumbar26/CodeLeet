@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0128-longest-consecutive-sequence) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0283-move-zeroes) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
@@ -185,4 +188,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0128-longest-consecutive-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
