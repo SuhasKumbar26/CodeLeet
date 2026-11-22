@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0706-design-hashmap) |
 | [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
