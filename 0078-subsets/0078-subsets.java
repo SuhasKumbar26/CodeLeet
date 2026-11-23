@@ -18,7 +18,8 @@ class Solution {
 
         // Undo the taken
         cur.remove(cur.size()-1);
-        // Dont take at all
+        
+        // Dont take 
         subSetFun(arr, set, cur,  idx+1);
     }
 }
