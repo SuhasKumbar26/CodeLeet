@@ -1,32 +1,26 @@
 class Solution {
-
-    private void swap(int x, int y, int[] arr){
-        int t = arr[x];
-        arr[x] = arr[y];
-        arr[y] = t;
+    public List<List<Integer>> permute(int[] nums) {
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> ds = new ArrayList<>();
+        boolean[] flag = new boolean[nums.length];
+        generatePer(nums, ds,  flag, ans);
+        return ans;
     }
 
-    private void generatePer(int[] arr, int idx, List<List<Integer>> ans){
-
-        if(idx == arr.length){
-            List<Integer> ds = new ArrayList<>();
-            for(int i: arr) ds.add(i);
+    private void generatePer(int[] nums, List<Integer> ds,  boolean[] flag, List<List<Integer>> ans){
+        if(ds.size() == nums.length){
             ans.add(new ArrayList<>(ds));
             return;
         }
 
-        for(int i = idx; i < arr.length; i++){
-            swap(idx, i, arr);
-            generatePer(arr, idx+1, ans);
-            swap(idx, i, arr);
+        for(int i = 0; i < nums.length; i++){
+            if(!flag[i]){
+                flag[i] = true;
+                ds.add(nums[i]);
+                generatePer(nums, ds, flag, ans);
+                ds.remove(ds.size()-1);
+                flag[i] = false;
+            }
         }
-    }
-
-
-
-    public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        generatePer(nums, 0, ans);
-        return ans;
     }
 }
