@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0090-subsets-ii) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0090-subsets-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
