@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0128-longest-consecutive-sequence) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/SuhasKumbar26/CodeLeet/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0055-jump-game) |
 ## Monotonic Stack
 |  |
 | ------- |
