@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0706-design-hashmap) |
 | [0860-lemonade-change](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/SuhasKumbar26/CodeLeet/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SuhasKumbar26/CodeLeet/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
