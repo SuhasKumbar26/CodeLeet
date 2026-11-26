@@ -12,7 +12,7 @@ class Solution {
         for(int i = 0; i < gas.length; i++){
             curGas = curGas + gas[i] - cost[i];
             if(curGas < 0){
-                start = (i+1)%gas.length;
+                start = (i+1);
                 curGas = 0;
             }
             totalGas += gas[i];
